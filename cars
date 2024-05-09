@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "id": "0",
+      "name": "BMW",
+      "color": "black",
+      "price": "7000000",
+      "image": "https://sportishka.com/uploads/posts/2023-12/1701463498_sportishka-com-p-bmv-kvadro-pinterest-87.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Mercedes",
+      "color": "gray",
+      "price": "10000000",
+      "image": "https://proprikol.ru/wp-content/uploads/2020/09/kartinki-mersedes-mercedes-9.jpg"
+    }
+  ]
+}
